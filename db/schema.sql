@@ -7,6 +7,7 @@ CREATE DATABASE ecommerce_db;
 -- SELECT DATABASE
 -- USE ecommerce_db;
 
+
 -- -- DUMMY DATA
 
 -- INSERT INTO Category (category_name) 
