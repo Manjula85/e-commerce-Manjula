@@ -1,7 +1,7 @@
 # E-commerce website
 
 ## Purpose
-To create a Notepad where one can store, edit and delete data. The project uses express as the server to communicate with the HTML and CSS front-end with the JavaScript and Node.js back-end.
+To create a website to monitor and manupulate store inventory and manage customer information.
 
 ## Built with
 * JavaScript
