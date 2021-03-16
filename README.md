@@ -51,7 +51,7 @@ To create a Notepad where one can store, edit and delete data. The project uses 
 ## Tag
 
 #### Get Tags
-![](images/getTags.PNG)
+![](images/getTag.PNG)
 
 #### Create a new Tag
 ![](images/createNewTag.PNG)
