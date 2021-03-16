@@ -56,12 +56,6 @@ To create a website to monitor and manupulate store inventory and manage custome
 #### Create a new Tag
 ![](images/createNewTag.PNG)
 
-#### Get Tag by ID
-![](images/getTagByID.PNG)
-
-#### Update Tag
-![](images/updateTag.PNG)
-
 #### Delete Tag by ID
 ![](images/deleteTagByID.PNG)
 
